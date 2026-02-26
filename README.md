@@ -16,10 +16,8 @@ The objective was to validate core HR functionalities including Login, PIM, Leav
 
 ## 📄 Deliverables Included
 - Test Plan Document
-- 65+ Test Scenarios
+- 35+ Test Scenarios
 - Detailed Test Cases (Excel)
-- Bug Report with Severity & Priority
-- Requirement Traceability Matrix (RTM)
 
 ## 🛠 Tools Used
 - Excel (Test Cases & Bug Reports)
